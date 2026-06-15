@@ -1,0 +1,17 @@
+mth\repository\AssignmentsRepository.class
+mth\controller\AssignmentsController.class
+mth\services\JwtService.class
+mth\models\Rolesmapping.class
+mth\models\Users.class
+mth\models\Assignments.class
+mth\models\Menus.class
+mth\repository\RolesRepository.class
+mth\services\UsersService.class
+mth\controller\UsersController.class
+mth\models\Teams.class
+mth\repository\TeamsRepository.class
+mth\repository\UsersRepository.class
+mth\services\AssignmentsService.class
+mth\CoreservicesApplication.class
+mth\models\Roles.class
+mth\ServletInitializer.class
